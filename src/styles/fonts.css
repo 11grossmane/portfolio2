@@ -1,0 +1,11 @@
+@import url("https://rsms.me/inter/inter.css");
+
+html {
+  font-family: "Courier New", Courier, monospace;
+}
+
+@supports (font-variation-settings: normal) {
+  html {
+    font-family: "Courier New", Courier, monospace;
+  }
+}
